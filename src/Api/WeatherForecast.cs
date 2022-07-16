@@ -1,6 +1,6 @@
 using System;
 
-namespace Vineyard
+namespace Vineyard.src.Api
 {
     public class WeatherForecast
     {
